@@ -1,0 +1,6 @@
+CMakeFiles/
+brainfuck
+.git/
+Makefile
+CMakeCache.txt
+cmake_install.cmake
